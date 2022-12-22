@@ -8,7 +8,7 @@
 ## 脚本来源
 - [ ] 修改自Github开源项目 [https://github.com/Snawoot/ss-replit](https://github.com/Snawoot/ss-replit)
 - [x] 修改原脚本`make_url.sh`部分参数(生成ss://链接部分,原脚本生成链接导入shadowsocks win端提示错误)
-- [x] 已适配shadowsocks win客户端(将v2ray-plugin.exe放置在shadowsocks-win同文件夹下)直接选择`二维码导入`或`url导入`
+- [x] 已适配shadowsocks win客户端(将v2ray-plugin.exe放置在shadowsocks-win同文件夹下)直接选择`二维码导入`或`URL导入`
 
 ## 附件下载
 | 软件名      | 下载地址     |
