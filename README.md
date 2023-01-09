@@ -20,4 +20,4 @@
 ### v2ray-plugin补充
 - v2ray-plugin-Windows `32位系统`选`v2ray-plugin-windows-386` `64位系统`选`v2ray-plugin-windows-amd64`
 - v2ray-plugin-MacOS `Intel芯片`选`v2ray-plugin-darwin-amd64` `M系列芯片`选`v2ray-plugin-darwin-arm64`
-- v2ray-plugin-Android 通用选`v2ray--universal` `arm64`选`v2ray-arm64-v8a` `arm32`选`v2ray-armeabi-v7a` `X86`选`v2ray-x86` `X86_64`位`v2ray-x86_64`
+- v2ray-plugin-Android `通用`选`v2ray--universal` `arm64`选`v2ray-arm64-v8a` `arm32`选`v2ray-armeabi-v7a` `X86`选`v2ray-x86` `X86_64`位`v2ray-x86_64`
