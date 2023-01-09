@@ -15,3 +15,4 @@
 | shadowsocks-MacOS | https://github.com/shadowsocks/ShadowsocksX-NG/releases |
 | shadowsocks-Android | https://github.com/shadowsocks/shadowsocks-android/releases |
 | v2ray-plugin | https://github.com/shadowsocks/v2ray-plugin/releases |
+### v2ray-plugin补充
