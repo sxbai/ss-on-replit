@@ -11,5 +11,7 @@
 ## 附件下载
 | 软件名      | 下载地址     |
 | :---        | :---        |
-| shadowsocks-windows      | https://github.com/shadowsocks/shadowsocks-windows/releases   |
-| v2ray-plugin   | https://github.com/shadowsocks/v2ray-plugin/releases      |
+| shadowsocks-Windows | https://github.com/shadowsocks/shadowsocks-windows/releases |
+| shadowsocks-MacOS | https://github.com/shadowsocks/ShadowsocksX-NG/releases |
+| shadowsocks-Android | https://github.com/shadowsocks/shadowsocks-android/releases |
+| v2ray-plugin | https://github.com/shadowsocks/v2ray-plugin/releases |
